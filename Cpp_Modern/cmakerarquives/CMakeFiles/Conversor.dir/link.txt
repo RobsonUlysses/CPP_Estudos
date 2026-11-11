@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Conversor.dir/main.cpp.o CMakeFiles/Conversor.dir/project.cpp.o -o Conversor 

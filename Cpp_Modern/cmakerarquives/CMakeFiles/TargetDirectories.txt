@@ -1,0 +1,3 @@
+/home/robson/Documentos/Cursos1/CPP_Estudos/Cpp_Modern/cmakerarquives/CMakeFiles/Conversor.dir
+/home/robson/Documentos/Cursos1/CPP_Estudos/Cpp_Modern/cmakerarquives/CMakeFiles/edit_cache.dir
+/home/robson/Documentos/Cursos1/CPP_Estudos/Cpp_Modern/cmakerarquives/CMakeFiles/rebuild_cache.dir
